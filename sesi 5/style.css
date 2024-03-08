@@ -1,0 +1,28 @@
+body {
+  font-family: arial;
+}
+
+h1 {
+  color: gold;
+}
+
+.h2 {
+  color: orchid;
+  font-style: italic;
+}
+
+ul li a {
+  color: blue;
+}
+
+ol li a {
+  color: red;
+}
+
+#p1 {
+  color: green;
+}
+
+.p2 {
+  color: grey;
+}
